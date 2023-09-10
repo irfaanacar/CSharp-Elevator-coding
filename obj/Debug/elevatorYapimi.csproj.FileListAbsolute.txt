@@ -1,0 +1,10 @@
+C:\Users\irfaa\OneDrive\Masaüstü\C#\elevatorYapimi\bin\Debug\elevatorYapimi.exe.config
+C:\Users\irfaa\OneDrive\Masaüstü\C#\elevatorYapimi\bin\Debug\elevatorYapimi.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\elevatorYapimi\bin\Debug\elevatorYapimi.pdb
+C:\Users\irfaa\OneDrive\Masaüstü\C#\elevatorYapimi\obj\Debug\elevatorYapimi.csproj.AssemblyReference.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\elevatorYapimi\obj\Debug\elevatorYapimi.Form1.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\elevatorYapimi\obj\Debug\elevatorYapimi.Properties.Resources.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\elevatorYapimi\obj\Debug\elevatorYapimi.csproj.GenerateResource.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\elevatorYapimi\obj\Debug\elevatorYapimi.csproj.CoreCompileInputs.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\elevatorYapimi\obj\Debug\elevatorYapimi.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\elevatorYapimi\obj\Debug\elevatorYapimi.pdb
